@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/potato_moji.svg" width="220">
+  <img src="assets/poop_moji.svg" width="220">
 </p>
 
 # DiRT
