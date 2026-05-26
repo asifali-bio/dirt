@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/potato_moji.svg" width="220">
+</p>
+
 # DiRT
 
 **Direct Render Transfer** is a lightweight data specification and transfer framework for moving high-dimensional biological datasets from analytical environments into real-time visualization engines.
